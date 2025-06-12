@@ -23,7 +23,7 @@ function Chat() {
         },
         {
           headers: {
-  'Authorization': `Bearer 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`, // Don't forget to replace this
+  'Authorization': `Bearer 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`, // Don't forget to replace this
   'HTTP-Referer': 'https://rama-ai-web.vercel.app',
   'Content-Type': 'application/json'
 }
